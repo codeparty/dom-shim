@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/codeparty/dom-shim.png)](http://travis-ci.org/codeparty/dom-shim)
 # dom-shim
 
 Shim newer DOM features in older browsers
