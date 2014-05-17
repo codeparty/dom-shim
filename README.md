@@ -1,6 +1,4 @@
-# dom-shim
-
-Shim newer DOM features in older browsers
+DEPRECATED. DO NOT USE.
 
 ## MIT License
 Copyright (c) 2012 by Nate Smith and Brian Noguchi
